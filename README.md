@@ -61,22 +61,18 @@
 ### 課程簡報目錄
 
 * 初階一：
-    * 01_物聯網及開發板基本介紹
-    * 02_通用輸出入(GPIO)
-    * 03_序列通訊(Serial)
+    * [01_物聯網及開發板基本介紹](https://hackmd.io/@OmniXRI-Jack/NKUT_Data_Logger_Course_01)
+    * [02_通用輸出入(GPIO)](https://hackmd.io/@OmniXRI-Jack/NKUT_Data_Logger_Course_02)
+    * [03_序列通訊(Serial)](https://hackmd.io/@OmniXRI-Jack/NKUT_Data_Logger_Course_03)
 * 初階二：
-    * 04_即時時鐘(RTC, I2C)
-    * 05_溫度氣壓感測(BMP280, I2C)
-    * 06_記憶卡(SD, SPI)
+    * [04_即時時鐘(RTC, I2C)](https://hackmd.io/@OmniXRI-Jack/NKUT_Data_Logger_Course_04)
+    * [05_溫度氣壓感測(BMP280, I2C)](https://hackmd.io/@OmniXRI-Jack/NKUT_Data_Logger_Course_05)
+    * [06_記憶卡(SD, SPI)](https://hackmd.io/@OmniXRI-Jack/NKUT_Data_Logger_Course_06)
 * 進階一：
-    * 07_LCD基本介紹(ILI9341, SPI)
-    * 08_LCD文字模式
-    * 09_LCD繪圖模式
+    * [07_LCD基本介紹(ILI9341, SPI)](https://hackmd.io/@OmniXRI-Jack/NKUT_Data_Logger_Course_07)
+    * [08_LCD文字模式](https://hackmd.io/@OmniXRI-Jack/NKUT_Data_Logger_Course_08)
+    * [09_LCD繪圖模式](https://hackmd.io/@OmniXRI-Jack/NKUT_Data_Logger_Course_09)
 * 進階二：
-    * 10_人機介面(HMI)
-    * 11_資料收集站(Data Logger)
-    * 12_無線及雲端(WIFI, MQTT)
-
-### 課程範例
-
-Github
+    * [10_人機介面(HMI)](https://hackmd.io/@OmniXRI-Jack/NKUT_Data_Logger_Course_10)
+    * [11_資料收集站(Data Logger)](https://hackmd.io/@OmniXRI-Jack/NKUT_Data_Logger_Course_11)
+    * [12_無線及雲端(WIFI, MQTT)](https://hackmd.io/@OmniXRI-Jack/NKUT_Data_Logger_Course_12)
