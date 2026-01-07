@@ -1,2 +1,1 @@
-請將 /code 及 /lib 上傳到 Pi Pico / 目錄下， /Samples 下的範例才能正常工作。
-
+請將 /lib 及 /Images 上傳到 Pi Pico / 根目錄下， /Samples 下的範例才能正常工作。
